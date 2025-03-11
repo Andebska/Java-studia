@@ -1,0 +1,42 @@
+INSTRUKCJA OBSŁUGI PROGRAMU
+
+Program umożliwia zarządzanie bazą danych książek za pomocą konsolowego menu. Możliwe do wyboru opcje to:
+
+Menu:
+   1. Wyświetl wszystkie książki
+   2. Wyszukaj po autorze
+   3. Wyszukaj po ISBN
+   4. Dodaj nową książkę
+   5. Wyjście
+
+
+1. Wyświetlenie wszystkich książek:
+   Przykład:
+   Wybierz opcję: 1
+   ISBN: 1234567891234, Tytuł: W poszukiwaniu straconego czasu, Autor: Marcel Proust, Rok: 2008
+
+2. Wyszukiwanie książek po nazwisku autora:
+   Przykład:
+   Wybierz opcję: 2
+   Podaj nazwisko autora: Orwell
+   ISBN: 1234567891248, Tytuł: Rok 1984, Autor: George Orwell, Rok: 2003
+
+3. Wyszukiwanie książek po numerze ISBN:
+   Przykład:
+   Wybierz opcję: 3
+   Podaj ISBN: 1234567891249
+   ISBN: 1234567891249, Tytuł: Mechaniczna pomarancza, Autor: Antoni Burgess, Rok: 1999
+
+4. Dodanie nowej książki:
+   Przykład:
+   Wybierz opcję: 4
+   Podaj ISBN: 1234567891250
+   Podaj tytuł: Quo Vadis
+   Podaj autora: Henryk Sienkiewicz
+   Podaj rok wydania: 1896
+   Książka dodana.
+
+5. Wyjście z programu:
+   Przykład:
+   Wybierz opcję: 5
+   Koniec programu.
