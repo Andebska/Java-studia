@@ -1,0 +1,8 @@
+Pszczoła 1: liczba wlotów = 4, średni czas oczekiwania = 0.76325s
+Pszczoła 4: liczba wlotów = 2, średni czas oczekiwania = 16.56s
+Pszczoła 7: liczba wlotów = 1, średni czas oczekiwania = 17.102s
+Pszczoła 3: liczba wlotów = 3, średni czas oczekiwania = 10.372s
+Pszczoła 2: liczba wlotów = 3, średni czas oczekiwania = 4.696666666666667s
+Pszczoła 6: liczba wlotów = 3, średni czas oczekiwania = 2.4516666666666667s
+Pszczoła 8: liczba wlotów = 2, średni czas oczekiwania = 11.0495s
+Pszczoła 5: liczba wlotów = 3, średni czas oczekiwania = 5.6963333333333335s
